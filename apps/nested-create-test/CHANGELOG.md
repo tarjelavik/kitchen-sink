@@ -1,5 +1,11 @@
 # nested-create-test
 
+## 1.0.1
+
+### Patch Changes
+
+- fc84c9d: Minor bumb
+
 ## 1.0.0
 
 ### Major Changes
