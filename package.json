@@ -15,5 +15,8 @@
   "devDependencies": {
     "prettier": "^2.7.1",
     "turbo": "latest"
+  },
+  "dependencies": {
+    "@changesets/cli": "^2.24.4"
   }
 }
