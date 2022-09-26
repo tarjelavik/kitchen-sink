@@ -1,5 +1,11 @@
 # nested-create-test
 
+## 1.1.0
+
+### Minor Changes
+
+- 3b869ab: Add about page
+
 ## 1.0.1
 
 ### Patch Changes
