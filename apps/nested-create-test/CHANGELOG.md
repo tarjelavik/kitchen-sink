@@ -1,5 +1,11 @@
 # nested-create-test
 
+## 2.0.0
+
+### Major Changes
+
+- 938affa: Remove cards
+
 ## 1.1.0
 
 ### Minor Changes
